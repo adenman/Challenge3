@@ -12,8 +12,9 @@ This website takes user input from a window promt to store and track employee da
 
 ## Design
 
-<img src="./Assets/challeng3Screenshot.png" alt="">
 <img src="./Assets/console.PNG" alt="">
+<img src="./Assets/challeng3Screenshot.png" alt="">
+
 
 
 ## Link to finished website
